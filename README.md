@@ -1,3 +1,9 @@
+# Contributors
+
+[Thomas Chen](www.github.com/tthac09)
+
+[Sirry Chen](www.github.com/sirrychen)
+
 # QuteCar
 
 This is an Engineering Innovation Practice Course Project of our group. We tried to develop a demo model of Intelligent Traffic System for Emergency Vehicles such as an ambulance or a fire truck. We named it as QuteCar after the word CUTE, which means we believe that BRIGHT future of Intelligent Traffic will make everyone love it.
