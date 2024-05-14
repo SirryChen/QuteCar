@@ -28,7 +28,7 @@ What's more, we design a housing with a Red Cross on it for Ambulance with 3D pr
 
 并且，我们利用 3D 打印为 Ambulance 设计了一个带有红十字标志的外壳，以使其区别于私家车，从而模拟基于视觉的车辆识别。
 
-Another two HiSpark WiFi-IoT Developer Kits are converted into two traffic lights with 3D printing and some other electronic components such as wires and LED lights. They are marked as TrafficLightMain and TrafficLightSub, and are controlled together usually but possible to controlled them seperately if needed.
+Another two HiSpark WiFi-IoT Developer Kits are converted into two traffic lights with 3D printing and some other electronic components such as wires and LED lights. They are marked as TrafficLightMain and TrafficLightSub, and are controlled together usually but possible to be controlled seperately if needed.
 
 通过使用 3D 打印技术和其他一些电子元件（例如导线和 LED 灯），另外两套 HiSpark WiFi-IoT 开发套件被改造为两台交通信号灯。他们被标记为 TrafficLightMain 和 TrafficLightSub，通常可以协同控制，但在需要时也可以独立控制。
 
