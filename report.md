@@ -44,8 +44,14 @@ traffic_iot                 | 控制交通信号灯代码文件
 * 黄灯亮，绿、红两灯灭
 * 红灯亮，绿、黄两灯灭
 ## 五、方案流程
-![img.png](picture/img.png)
-![img_1.png](picture/img_1.png)
+
+<div style="display: flex;">
+    <img src="Picture/img.png" alt="img" style="width: 45%;">
+    <img src="Picture/img_1.png" alt="img_1" style="width: 50%;">
+</div>
+
+
+
 ## 六、技术分析
 ### 识别模块
 * 考虑到智能小车即设备端计算资源有限，我们团队将识别识别部分放在云端（电脑端），有效缓解了设备端的计算压力，同时云端可以直接根据计算结果将命令下发到多个设备端，实现多个设备端同时调控。  
